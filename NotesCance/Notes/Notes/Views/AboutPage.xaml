@@ -28,7 +28,8 @@
             </Label>
             <Label Text="This app is written in XAML and C# with the Xamarin Platform." />
             <Button Text="Learn more"
-                    Clicked="OnButtonClicked" />
+                    Clicked="OnButtonClicked"
+                    BackgroundColor="Coral"/>
         </StackLayout>
     </Grid>
 </ContentPage>
